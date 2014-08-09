@@ -1,0 +1,20 @@
+{
+    "name": "aliflux/webimagemaximizer",
+    "type": "library",
+    "description": "Find bigger images over the web",
+    "authors": [
+        {
+            "name": "Ali Ashraf",
+            "email": "aliashraf@ieee.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": ["class.webimagemaximizer.php"]
+    },
+    "license": "LGPL-2.1"
+}
