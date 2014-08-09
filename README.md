@@ -1,7 +1,7 @@
 # WebImageMaximizer
 #### Finds bigger image versions online
 
-![WebImageMaximizer](https://raw.github.com/AliFlux/WebImageMaximizer/master/examples/images/webimagesmaximizer.png)
+![WebImageMaximizer](https://raw.github.com/AliFlux/WebImageMaximizer/master/examples/images/webimagemaximizer.png)
 
 ## Introduction
 
