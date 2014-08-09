@@ -12,7 +12,7 @@ A tiny PHP class to find bigger versions of images online. And also guess the na
 - Tiny size
 - Zero dependencies
 - Object-oriented usage
-- Easy to use (1 function, returns in array)
+- Easy to use (1 function, returns an array)
 
 ## Installation
 
@@ -57,7 +57,7 @@ To find out what an image infront of you actually means, you can make use of the
 
 ## Contributing
 
-Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](https://github.com/AliFlux/NaturalThreading/issues).
+Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](https://github.com/AliFlux/WebImageMaximizer/issues).
 I would be happy if someone helps in expanding its functionality by adding more useful threading features such as joining threads and thread-pooling.
 
 ## License
